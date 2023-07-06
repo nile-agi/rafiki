@@ -38,4 +38,4 @@ class Tokenize:
     
     def decode(self, l) -> str:
         self.read_file()
-        return [self.itos[i] for i in l]
+        return (''.join(self.itos[i] for i in l))
