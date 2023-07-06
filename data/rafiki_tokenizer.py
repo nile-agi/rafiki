@@ -3,13 +3,13 @@ import requests
 
 class Tokenize:
     def __init__(self, file_dir= str):
-        self.file_dir=os.path.join(file_dir)
+        self.file_dir=os.path.join(os.path.dirname('__file__'),file_dir)
         self.stoi=None
         self.itos=None
         self.chars=None
         
     def read_file(self):
-        if not os.path.exists('http://') and os.path.exists('https://'):
+        if 'http://' and 'https://' not in self.file_dir:
             with open(self.file_dir, 'r') as f:
                 text=f.read()
                 
