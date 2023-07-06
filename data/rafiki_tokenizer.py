@@ -6,6 +6,7 @@ class Tokenize:
         self.file_dir=os.path.join(file_dir)
         self.stoi=None
         self.itos=None
+        self.chars=None
         
     def read_file(self):
         if not os.path.exists('http://') and os.path.exists('https://'):
@@ -14,20 +15,22 @@ class Tokenize:
                 
         else:
             save_data_file=os.path.join(os.getcwd(), 'input.txt')
+            text=requests.get(self.file_dir).text
             with open(save_data_file, 'w') as f:
-                text=requests.get(self.file_dir).text
-                text=f.write(text)
-                
-        print (text) 
-        chars=sorted(list(set(text)))
-        vocab_size=len(chars)
+                f.write(text)
+               
+        self.chars=sorted(list(set(text)))
         
-        print('All the unique sorted cahrraters: ', chars)
-        print('Vocab Size: ', vocab_size)
-        
-        self.stoi = {ch : i for i, ch in enumerate( chars )}
-        self.itos = {i : ch for i, ch in enumerate (chars)}      
+        self.stoi = {ch : i for i, ch in enumerate( self.chars )}
+        self.itos = {i : ch for i, ch in enumerate (self.chars)}      
     
+    def vocab_size(self):
+        self.read_file()
+        return len(self.chars)
+    
+    def sorted_chars(self):
+        self.read_file()
+        return self.chars
 
     def encode(self, s) -> bytes:
         self.read_file()
