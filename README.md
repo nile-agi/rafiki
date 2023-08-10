@@ -33,3 +33,7 @@ These applications have vast and wide range of the problem they can solve to a v
 **Rafiki Language Model** aim to solve this problem, this is the Multi-Purpose Open-Source Swahili Language model aim to breach the gape in the AI field and African continent at large by providing the state-of-the-Art performance in the problem of Transcribing, Transcription, Translation and Conversational AI. 
 
 It is worth noticing that we Aim for Rafiki Language Model to not be Large Language Model at all, for some reasons:
+
+  a. We believe Safe AGI will running and trained from your laptop at your room and this will not be possible if the model keep continue to grow Larger and Larger, which will make them hard to be accessible with everyone like the internet does, assume what it would be if to access internet you would have to have Nvidia GPU, the internet wouldn’t open all the possibilities it has opened today. Accessibility to as is very important as to AGI.
+
+  b. Opening up new possibilities in African Market and Economy, the current best Language models are owned by the few big tech companies or perhaps there are few that are open sourced now but they still large for a small startup from Africa to run to work with them, but if we make these models to be smaller, we will be able to open up the hall new possibilities for even emerging tech companies to solve different problems in Africa
