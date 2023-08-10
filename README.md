@@ -18,15 +18,18 @@ date:   August, 2023
 
 [Team](###Team)
 
-**State of the Art performance.** By the way, running their method with 1600 centroids gives 77% classification accuracy. If you set the clusters to be random the accuracy becomes 70%, and if you set the clusters to be random patches from the training set, the accuracy goes up to 74%. It seems like the whole purpose of k-means is to nicely spread out the clusters around the data. I'm guessing that the 70% random clusters performance might be because many of the clusters are
 
+### Intruduction to Rafiki Language Model
 
-### CIFAR-10
+#### Rafiki Language Model
+We know that the ML/AI landscape is moving or perhaps it has moved toward the direction of the Large Models, which in recent years they appear to work better than the conventional methods, this might be for a few reasons like huge corpse of data that own by bigger companies and the ones that are in the internet, and off course the discovery of the transformers that uses attention model.
 
-> Note, this post is from 2011 and slightly outdated in some places.
+Despite all of the effort that have been done by the big companies to push the bar to make language model work well in languages which have much more datasets in the internet like English Language, this is still not the case for Low resourced Languages like Swahili which is wildly spoken in East Africa and many parts of Africa
 
-<div style="text-align:center;"><img src="/assets/cifar_preview.png"></div>
+The problem with the current Large Language Model is, they miss the touch and the beauty of the Swahili Language and what it can solve to African people at Large in the field of conversational AI, text to text, text to image, image to text, voice to text and text to voice problems.
 
-**Statistics**. CIFAR-10 consists of 50,000 training images, all of them in 1 of 10 categories (displayed left). The test set consists of 10,000 novel images from the same categories, and the task is to classify each to its category. The state of the art is currently at about 80% classification accuracy (4000 centroids), achieved by [Adam Coates et al. (PDF)](http://ai.stanford.edu/~acoates/papers/coatesleeng_aistats_2011.pdf). This paper achieved the accuracy by using whitening, k-means to learn many centroids, and then using a soft activation function as features.
+These applications have vast and wide range of the problem they can solve to a very low-level individuals, small business, farmers, middle income and high-income business and even the governments of many countries in Africa.
 
-**State of the Art performance.** By the way, running their method with 1600 centroids gives 77% classification accuracy. If you set the clusters to be random the accuracy becomes 70%, and if you set the clusters to be random patches from the training set, the accuracy goes up to 74%. It seems like the whole purpose of k-means is to nicely spread out the clusters around the data. I'm guessing that the 70% random clusters performance might be because many of the clusters are
+**Rafiki Language Model** aim to solve this problem, this is the Multi-Purpose Open-Source Swahili Language model aim to breach the gape in the AI field and African continent at large by providing the state-of-the-Art performance in the problem of Transcribing, Transcription, Translation and Conversational AI. 
+
+It is worth noticing that we Aim for Rafiki Language Model to not be Large Language Model at all, for some reasons:
