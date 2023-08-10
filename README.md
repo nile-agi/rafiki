@@ -37,3 +37,17 @@ It is worth noticing that we Aim for Rafiki Language Model to not be Large Langu
   a. We believe Safe AGI will running and trained from your laptop at your room and this will not be possible if the model keep continue to grow Larger and Larger, which will make them hard to be accessible with everyone like the internet does, assume what it would be if to access internet you would have to have Nvidia GPU, the internet wouldn’t open all the possibilities it has opened today. Accessibility to as is very important as to AGI.
 
   b. Opening up new possibilities in African Market and Economy, the current best Language models are owned by the few big tech companies or perhaps there are few that are open sourced now but they still large for a small startup from Africa to run to work with them, but if we make these models to be smaller, we will be able to open up the hall new possibilities for even emerging tech companies to solve different problems in Africa
+
+#### Rafiki Language Model Purpose
+
+To be a multi-purpose but yet small open-source Language model that work on Transcription, Transcribing, Translation and Conversational AI tool/model to go with in Swahili.
+
+#### The Current Problem
+
+No one company is working to make these Language models highly efficient but yet smaller to be used seamlessly and in a decentralized manner, without forgetting the issue of censorship over the available models. 
+### NileAGI Mission
+
+Our Mission is quite simple, “Solving Intelligence towards Artificial Intelligence, making sense of AI for all”, which is more resonate with our purpose with Rafiki Language Model.
+We believe AGI someday will be trained in a laptop while drinking coffee on your bed.
+But all of this will start with Rafiki Language Model.
+
