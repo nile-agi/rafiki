@@ -45,6 +45,7 @@ To be a multi-purpose but yet small open-source Language model that work on Tran
 #### The Current Problem
 
 No one company is working to make these Language models highly efficient but yet smaller to be used seamlessly and in a decentralized manner, without forgetting the issue of censorship over the available models. 
+
 ### NileAGI Mission
 
 Our Mission is quite simple, “Solving Intelligence towards Artificial Intelligence, making sense of AI for all”, which is more resonate with our purpose with Rafiki Language Model.
