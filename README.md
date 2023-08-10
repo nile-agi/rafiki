@@ -67,3 +67,21 @@ But all of this will start with Rafiki Language Model.
     •	In 2 months (the first review is at 08/10/2023) will do review on where we are
 > NOTE: Let’s point out that collection of data is quote challenges.
         •	We have the obligation to come up with the effective ways of how we can collect useful data to use in our model
+
+#### Second Phase
+  •	Iterate the model toward improving it and reduce it size while.
+    •	Up to end of December 2023 (30/12/2023) will review where we are on this.
+#### Third Phase
+  •	Proof of concept in one problem specific in text conversational like writing poem
+    •	Next year
+  •	Expand to two problems like explaining doing some math
+    •	Next year 
+  •	Expand to at least four problems 
+    •	Next year
+
+#### Forth Phase
+  •	Reaching Customers
+    •	Next year
+  •	Incorporate one more component, say sound to do transcribing
+    •	Next year
+  •	Continue improving the model
