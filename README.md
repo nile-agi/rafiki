@@ -1,10 +1,25 @@
 ---
-layout: post
-comments: true
-title:  "Lessons learned from manually classifying CIFAR-10"
-excerpt: "CIFAR-10 is a popular dataset small dataset for testing out Computer Vision Deep Learning learning methods. We're seeing a lot of improvements. But what is the human baseline?"
-date:   2011-04-27 22:00:00
+Company: NileAGI
+comments: The first Malty-Purpose Swahili Language Model
+title:  "Rafiki Language Model"
+Adress: Kigamboni, Dar es Salaam
+date:   August, 2023
 ---
+
+### RAFIKI LANGUAGE MODEL
+
+> The First Ever Malty-Purpose Swahili Language Model
+
+
+**Contents**
+  [###Intruduction to Rafiki Language Model](Intruduction-to-Rafiki-Language-Model)
+
+[###Steps Towards Rafiki Language Model](Steps-Towards-Rafiki-Language-Model)
+
+[###Team](Team)
+
+**State of the Art performance.** By the way, running their method with 1600 centroids gives 77% classification accuracy. If you set the clusters to be random the accuracy becomes 70%, and if you set the clusters to be random patches from the training set, the accuracy goes up to 74%. It seems like the whole purpose of k-means is to nicely spread out the clusters around the data. I'm guessing that the 70% random clusters performance might be because many of the clusters are
+
 
 ### CIFAR-10
 
