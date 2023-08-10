@@ -53,3 +53,17 @@ We believe AGI someday will be trained in a laptop while drinking coffee on your
 But all of this will start with Rafiki Language Model.
 
 ### Steps Toward Rafiki Language Model
+
+#### First Phase
+
+  •	Collecting Text Conversational Language Data (This is perhaps the continuous process)
+    •	In every 1 month (the first review is at 08/09/2023) will do review on where we are in data collection
+  •	Cleaning data
+    •	This goes hand to hand with collecting the data (This will be reviewed every time we review the collection of data)
+  •	Developing Tokenizer
+    •	In 1 month (the first review is at 08/09/2023) will do review on where we are.
+    •	This also must continue at the same time as collecting data and improving it as when we get new data.
+  •	Creating Initial text conversational model
+    •	In 2 months (the first review is at 08/10/2023) will do review on where we are
+> NOTE: Let’s point out that collection of data is quote challenges.
+        •	We have the obligation to come up with the effective ways of how we can collect useful data to use in our model
