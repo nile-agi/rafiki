@@ -11,7 +11,7 @@ date:   August, 2023
 > The First Ever Malty-Purpose Swahili Language Model
 
 
-**Contents**
+### Content
 [Intruduction to Rafiki Language Model](###Intruduction-to-Rafiki-Language-Model)
 
 [Steps Towards Rafiki Language Model](###Steps-Towards-Rafiki-Language-Model)
