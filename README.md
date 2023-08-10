@@ -12,7 +12,7 @@ date:   August, 2023
 
 
 **Contents**
-  [Intruduction to Rafiki Language Model](###Intruduction-to-Rafiki-Language-Model)
+[Intruduction to Rafiki Language Model](###Intruduction-to-Rafiki-Language-Model)
 
 [Steps Towards Rafiki Language Model](###Steps-Towards-Rafiki-Language-Model)
 
