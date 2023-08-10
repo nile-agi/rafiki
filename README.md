@@ -34,9 +34,9 @@ These applications have vast and wide range of the problem they can solve to a v
 
 It is worth noticing that we Aim for Rafiki Language Model to not be Large Language Model at all, for some reasons:
 
-  a. We believe Safe AGI will running and trained from your laptop at your room and this will not be possible if the model keep continue to grow Larger and Larger, which will make them hard to be accessible with everyone like the internet does, assume what it would be if to access internet you would have to have Nvidia GPU, the internet wouldn’t open all the possibilities it has opened today. Accessibility to as is very important as to AGI.
+  1. We believe Safe AGI will running and trained from your laptop at your room and this will not be possible if the model keep continue to grow Larger and Larger, which will make them hard to be accessible with everyone like the internet does, assume what it would be if to access internet you would have to have Nvidia GPU, the internet wouldn’t open all the possibilities it has opened today. Accessibility to as is very important as to AGI.
 
-  b. Opening up new possibilities in African Market and Economy, the current best Language models are owned by the few big tech companies or perhaps there are few that are open sourced now but they still large for a small startup from Africa to run to work with them, but if we make these models to be smaller, we will be able to open up the hall new possibilities for even emerging tech companies to solve different problems in Africa
+  2. Opening up new possibilities in African Market and Economy, the current best Language models are owned by the few big tech companies or perhaps there are few that are open sourced now but they still large for a small startup from Africa to run to work with them, but if we make these models to be smaller, we will be able to open up the hall new possibilities for even emerging tech companies to solve different problems in Africa
 
 #### Rafiki Language Model Purpose
 
@@ -56,32 +56,32 @@ But all of this will start with Rafiki Language Model.
 
 #### First Phase
 
-  •	Collecting Text Conversational Language Data (This is perhaps the continuous process)
-    •	In every 1 month (the first review is at 08/09/2023) will do review on where we are in data collection
-  •	Cleaning data
-    •	This goes hand to hand with collecting the data (This will be reviewed every time we review the collection of data)
-  •	Developing Tokenizer
-    •	In 1 month (the first review is at 08/09/2023) will do review on where we are.
-    •	This also must continue at the same time as collecting data and improving it as when we get new data.
-  •	Creating Initial text conversational model
-    •	In 2 months (the first review is at 08/10/2023) will do review on where we are
+  - Collecting Text Conversational Language Data (This is perhaps the continuous process)
+    - In every 1 month (the first review is at 08/09/2023) will do review on where we are in data collection
+  - Cleaning data
+    - This goes hand to hand with collecting the data (This will be reviewed every time we review the collection of data)
+  - Developing Tokenizer
+    - In 1 month (the first review is at 08/09/2023) will do review on where we are.
+    - This also must continue at the same time as collecting data and improving it as when we get new data.
+  - Creating Initial text conversational model
+    - In 2 months (the first review is at 08/10/2023) will do review on where we are
 > NOTE: Let’s point out that collection of data is quote challenges.
-        •	We have the obligation to come up with the effective ways of how we can collect useful data to use in our model
+        - We have the obligation to come up with the effective ways of how we can collect useful data to use in our model
 
 #### Second Phase
-  •	Iterate the model toward improving it and reduce it size while.
-    •	Up to end of December 2023 (30/12/2023) will review where we are on this.
+  - Iterate the model toward improving it and reduce it size while.
+    - Up to end of December 2023 (30/12/2023) will review where we are on this.
 #### Third Phase
-  •	Proof of concept in one problem specific in text conversational like writing poem
-    •	Next year
-  •	Expand to two problems like explaining doing some math
-    •	Next year 
-  •	Expand to at least four problems 
-    •	Next year
+  - Proof of concept in one problem specific in text conversational like writing poem
+    - Next year
+  - Expand to two problems like explaining doing some math
+    - Next year 
+  - Expand to at least four problems 
+    - Next year
 
 #### Forth Phase
-  •	Reaching Customers
-    •	Next year
-  •	Incorporate one more component, say sound to do transcribing
-    •	Next year
-  •	Continue improving the model
+  - Reaching Customers
+    - Next year
+  - Incorporate one more component, say sound to do transcribing
+    - Next year
+  - Continue improving the model
