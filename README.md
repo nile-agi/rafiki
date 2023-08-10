@@ -12,11 +12,11 @@ date:   August, 2023
 
 
 **Contents**
-  [###Intruduction to Rafiki Language Model](Intruduction-to-Rafiki-Language-Model)
+  [Intruduction to Rafiki Language Model](###Intruduction-to-Rafiki-Language-Model)
 
-[###Steps Towards Rafiki Language Model](Steps-Towards-Rafiki-Language-Model)
+[Steps Towards Rafiki Language Model](###Steps-Towards-Rafiki-Language-Model)
 
-[###Team](Team)
+[Team](###Team)
 
 **State of the Art performance.** By the way, running their method with 1600 centroids gives 77% classification accuracy. If you set the clusters to be random the accuracy becomes 70%, and if you set the clusters to be random patches from the training set, the accuracy goes up to 74%. It seems like the whole purpose of k-means is to nicely spread out the clusters around the data. I'm guessing that the 70% random clusters performance might be because many of the clusters are
 
